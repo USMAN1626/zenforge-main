@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791676979582",
+    "project_id": "zenforge-3767b",
+    "storage_bucket": "zenforge-3767b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791676979582:android:11ab6308e84be4697d8b2f",
+        "android_client_info": {
+          "package_name": "com.example.zenforge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXIfNOAO9YlEUSIuTbyanc9fHbzeqRNhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
