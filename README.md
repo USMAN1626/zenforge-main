@@ -1,5 +1,14 @@
 ZenForge
-A new Flutter project.
+        The Fitness Challenge App is a simple and user-friendly application designed to help users stay motivated and consistent with their fitness goals. It allows users to join various fitness challenges, track their daily progress, and stay inspired with motivational messages.
+
+Key Features:
+
+Join Fitness Challenges – Choose from a list of pre-defined challenges tailored to different fitness levels and goals.
+Daily Progress Tracking – A convenient checkbox system lets users mark tasks as completed each day.
+Challenge Progress Overview – View percentage completion for each challenge to stay on track.
+Simple Dashboard – Easily monitor active challenges and overall progress at a glance.
+Motivational Messages – Receive a random fitness quote each day to stay inspired and committed.
+With an intuitive interface and structured tracking, the Fitness Challenge App makes it easier than ever to build consistency and achieve fitness goals effectively. 🚀💪
 
 Getting Started
 This project is a starting point for a Flutter application.
